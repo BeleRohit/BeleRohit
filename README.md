@@ -54,7 +54,7 @@ I am a passionate and driven Data Scientist with expertise in AI/ML. I have a st
 
 ### San Francisco Building Permits EDA
 
-- GitHub: [Project_Link](San_Francisco_Building_Permits_EDA_Link)
+- GitHub: [Project_Link]([San_Francisco_Building_Permits_EDA_Link](https://github.com/BeleRohit/San-Fransisco-Building-Permits))
 - Technologies: Python, NumPy, pandas, Seaborn
 - Conducted exploratory and explanatory data analysis on San Francisco Building permits.
 - Provided key insights and statistics to streamline the permit issuance process.
@@ -90,10 +90,7 @@ I am a passionate and driven Data Scientist with expertise in AI/ML. I have a st
 - Filmed and uploaded solo music videos.
 - Aim to expand the channel's reach.
 
-### Club Coordinator - theSoulVoice | Music Club of RP Nath College
 
-- Organized music competitions and learning sessions.
-- Collaborated with colleagues and teachers.
 
 ---
 
