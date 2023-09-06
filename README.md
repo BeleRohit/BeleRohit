@@ -4,7 +4,7 @@
 
 Email: rohitnbele@gmail.com
 
-🔗 LinkedIn: [[LinkedIn_Profile_Link](https://www.linkedin.com/in/belerohit/)]
+🔗 LinkedIn: [[bele-rohit](https://www.linkedin.com/in/belerohit/)]
 
 
 ---
