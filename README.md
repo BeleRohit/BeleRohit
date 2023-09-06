@@ -4,7 +4,7 @@
 
 Email: rohitnbele@gmail.com
 
-🔗 LinkedIn: [LinkedIn_Profile_Link](https://www.linkedin.com/in/belerohit/)
+🔗 LinkedIn: [[LinkedIn_Profile_Link](https://www.linkedin.com/in/belerohit/)]
 
 
 ---
@@ -54,27 +54,27 @@ I am a passionate and driven Data Scientist with expertise in AI/ML. I have a st
 
 ### San Francisco Building Permits EDA
 
-- GitHub: [Project_Link](https://github.com/BeleRohit/San-Fransisco-Building-Permits)
+- GitHub: [[Project_Link](https://github.com/BeleRohit/San-Fransisco-Building-Permits)]
 - Technologies: Python, NumPy, pandas, Seaborn
 - Conducted exploratory and explanatory data analysis on San Francisco Building permits.
 - Provided key insights and statistics to streamline the permit issuance process.
 
 ### Uber Case Study
 
-- GitHub: [Uber_Case_Study_Link](https://github.com/BeleRohit/UberSupplyDemandGap)
+- GitHub:[ [Uber_Case_Study_Link](https://github.com/BeleRohit/UberSupplyDemandGap)]
 - Technologies: Python, NumPy, Pandas, Seaborn, Matplotlib
 - Analyzed the Uber dataset to identify inconsistencies in cab service delivery.
 - Conducted data cleaning, analysis, and visualizations.
 
 ### E-HealthCare Management System
 
-- GitHub: [E-HealthCare-Management-System_Link](https://github.com/BeleRohit/EHMS-E_Health_Management_System)
+- GitHub: [[E-HealthCare-Management-System_Link](https://github.com/BeleRohit/EHMS-E_Health_Management_System)]
 - Technologies: Java, MySQL, JDBC, Object-Oriented Programming
 - Developed a healthcare management system using Java and SQL for efficient data management.
 
 ### Movie Recommender System
 
-- GitHub: [Movie_Recommender_System_Link](https://github.com/BeleRohit/Movie_Reccomendation_System)
+- GitHub: [[Movie_Recommender_System_Link](https://github.com/BeleRohit/Movie_Reccomendation_System)]
 - Technologies: Python, Machine Learning, Pandas, Visualization Libraries
 - Developed a recommender system using machine learning algorithms to provide personalized recommendations to users based on their preferences.
 - Performed data preprocessing, cleaning, and large-scale analysis.
@@ -86,7 +86,7 @@ I am a passionate and driven Data Scientist with expertise in AI/ML. I have a st
 
 ### YouTube Music Channel
 
-- [YouTube_Channel_Link](https://www.youtube.com/channel/UC3pJKOr_RCHjo_f2VcVHKbQ)
+- [[YouTube_Channel_Link](https://www.youtube.com/channel/UC3pJKOr_RCHjo_f2VcVHKbQ)]
 - Filmed and uploaded solo music videos.
 - Aim to expand the channel's reach.
 
