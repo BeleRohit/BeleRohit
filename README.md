@@ -2,10 +2,10 @@
 
 ## Data Scientist :computer: | Machine Learning Enthusiast :chart_with_upwards_trend:
 
-Phone: +919307458259 | Email: rohitnbele@gmail.com
+Email: rohitnbele@gmail.com
 
-🔗 LinkedIn: [bele-rohit](LinkedIn_Profile_Link)
-📚 GitHub: [BeleRohit](GitHub_Profile_Link)
+🔗 LinkedIn: [bele-rohit]([LinkedIn_Profile_Link](https://www.linkedin.com/in/belerohit/))
+
 
 ---
 
@@ -61,20 +61,20 @@ I am a passionate and driven Data Scientist with expertise in AI/ML. I have a st
 
 ### Uber Case Study
 
-- GitHub: [Project_Link](Uber_Case_Study_Link)
+- GitHub: [Project_Link]([Uber_Case_Study_Link](https://github.com/BeleRohit/UberSupplyDemandGap)
 - Technologies: Python, NumPy, Pandas, Seaborn, Matplotlib
 - Analyzed the Uber dataset to identify inconsistencies in cab service delivery.
 - Conducted data cleaning, analysis, and visualizations.
 
 ### E-HealthCare Management System
 
-- GitHub: [Project_Link](E-HealthCare-Management-System_Link)
+- GitHub: [Project_Link]([E-HealthCare-Management-System_Link](https://github.com/BeleRohit/EHMS-E_Health_Management_System))
 - Technologies: Java, MySQL, JDBC, Object-Oriented Programming
 - Developed a healthcare management system using Java and SQL for efficient data management.
 
 ### Movie Recommender System
 
-- GitHub: [Project_Link](Movie_Recommender_System_Link)
+- GitHub: [Project_Link]([Movie_Recommender_System_Link](https://github.com/BeleRohit/Movie_Reccomendation_System))
 - Technologies: Python, Machine Learning, Pandas, Visualization Libraries
 - Developed a recommender system using machine learning algorithms to provide personalized recommendations to users based on their preferences.
 - Performed data preprocessing, cleaning, and large-scale analysis.
@@ -86,7 +86,7 @@ I am a passionate and driven Data Scientist with expertise in AI/ML. I have a st
 
 ### YouTube Music Channel
 
-- [Channel Link](YouTube_Channel_Link)
+- [Channel Link]([YouTube_Channel_Link](https://www.youtube.com/channel/UC3pJKOr_RCHjo_f2VcVHKbQ))
 - Filmed and uploaded solo music videos.
 - Aim to expand the channel's reach.
 
