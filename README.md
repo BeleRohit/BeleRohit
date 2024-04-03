@@ -1,97 +1,54 @@
 # Rohit Bele
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/belerohit)](https://linkedin.com/in/belerohit) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/BeleRohit)](https://github.com/BeleRohit)
 
-## Data Scientist :computer: | Machine Learning Enthusiast :chart_with_upwards_trend:
+👨‍💻 Data Science Enthusiast | 📱 Machine Learning | 🚀 AI Enthusiast
 
-Email: rohitnbele@gmail.com
+Welcome to my GitHub profile! I'm passionate about leveraging AI and ML to solve real-world problems, with expertise in model deployment and deep learning principles.
 
-🔗 LinkedIn: [[bele-rohit](https://www.linkedin.com/in/belerohit/)]
+## Summary
+Focused AI-ML Enthusiast with expertise in Python, TensorFlow, and PyTorch, specializing in model deployment and deep learning principles. Proficient in Agile development and adaptable to various mobile platforms. Strong communicator with a proactive attitude towards collaboration and learning.
 
+## Projects
+### End to End Student Performance Prediction
+- Developed scikit-learn models predicting student success.
+- Crafted an intuitive Flask web application.
+- Successfully deployed on Microsoft Azure.
+![Student Performance Prediction](https://media.giphy.com/media/Y1QH1JZkGQ8wFOtUa4/giphy.gif)
 
----
+### End-to-End Cell Segmentation Using Yolo V8
+- Achieved seamless deployment of Yolo V8-based cell segmentation project on Azure.
+- Implemented a user-friendly web app interface.
+- Leveraged Docker containerization and Azure Container Registry.
+![Cell Segmentation](https://media.giphy.com/media/kWw8lIda3rejQGtaUf/giphy.gif)
 
-## About Me
+## Technical Skills
+- **Languages**: Java, Python, C , R
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Data Management**: MySQL, Cassandra DB, MongoDB
+- **Cloud Platforms**: Microsoft Azure
+- **Machine Learning Libraries**: SK-Learn, TensorFlow, Keras, PyTorch, Matplotlib, HuggingFace, Langchain, LlamaIndex
+- **Frameworks**: Flask, Django
 
-I am a passionate and driven Data Scientist with expertise in AI/ML. I have a strong background in design, integration, and problem-solving, along with proficiency in JAVA, C, PYTHON, and SQL. I excel at translating business requirements into technical solutions and launching new projects and seeking an entry-level software engineer position in a reputable firm driven by technology.
+## Experience
+### Microsoft Learn Student Ambassador
+- Organized highly successful tech-focused events and webinars.
+- Contributed to a 30% improvement in user engagement metrics.
+![Microsoft Learn](https://media.giphy.com/media/ZgTRfk3Vdkqg1uGtNL/giphy.gif)
 
----
+### Freelance Teacher
+- Tutored students in Mathematics and Algorithms.
+- Provided comprehensive SAT exam preparation.
+![Freelance Teacher](https://media.giphy.com/media/WsduZwScDYZzEOoYeN/giphy.gif)
 
 ## Education
+- B.Tech. in Computer Science
+  - CGPA: 7.34
+- Higher Secondary
+  - Percentage: 80%
 
-- Bachelor of Technology in Computer Science and Engineering with specialization in AI/ML
-  - Lovely Professional University, Phagwara
-  - 2020–2024
+## Achievements
+- **Amazon ML Summer School 2023**: Shortlisted Participant.
+- **Kaggle Contributor**: 3rd Position in ML Olympiad 2024 Challenge.
+- **TechPulse Newsletter**: Founder and Author.
 
-- Higher Secondary Certificate
-  - Dr. R P Nath Junior College, Aurangabad
-  - 2018-2020
-
----
-
-## Work Experience
-
-### Freelancer (Excel)
-
-- Worked on several projects involving data cleaning and visualization in Excel and Tableau.
-- Provided text conversion services on Fiverr.
-
----
-
-## Certifications
-
-- Coursera: Foundations Data, Data Everywhere
-- Kaggle: Python Pandas
-- Google Cloud:
-  - Create and Manage Cloud Resources
-  - Google Cloud Essentials
-  - Perform Foundational Infrastructure Tasks in Google Cloud
-- British Council: CEFR B2 Upper Intermediate level
-- Hacker Rank: Problem-Solving Basic
-- SQL for Data Science (Coursera)
-
----
-
-## Technical Projects
-
-### San Francisco Building Permits EDA
-
-- GitHub: [[Project_Link](https://github.com/BeleRohit/San-Fransisco-Building-Permits)]
-- Technologies: Python, NumPy, pandas, Seaborn
-- Conducted exploratory and explanatory data analysis on San Francisco Building permits.
-- Provided key insights and statistics to streamline the permit issuance process.
-
-### Uber Case Study
-
-- GitHub:[ [Uber_Case_Study_Link](https://github.com/BeleRohit/UberSupplyDemandGap)]
-- Technologies: Python, NumPy, Pandas, Seaborn, Matplotlib
-- Analyzed the Uber dataset to identify inconsistencies in cab service delivery.
-- Conducted data cleaning, analysis, and visualizations.
-
-### E-HealthCare Management System
-
-- GitHub: [[E-HealthCare-Management-System_Link](https://github.com/BeleRohit/EHMS-E_Health_Management_System)]
-- Technologies: Java, MySQL, JDBC, Object-Oriented Programming
-- Developed a healthcare management system using Java and SQL for efficient data management.
-
-### Movie Recommender System
-
-- GitHub: [[Movie_Recommender_System_Link](https://github.com/BeleRohit/Movie_Reccomendation_System)]
-- Technologies: Python, Machine Learning, Pandas, Visualization Libraries
-- Developed a recommender system using machine learning algorithms to provide personalized recommendations to users based on their preferences.
-- Performed data preprocessing, cleaning, and large-scale analysis.
-- Utilized collaborative filtering algorithms and evaluation metrics for accuracy assessment.
-
----
-
-## Positions of Responsibility
-
-### YouTube Music Channel
-
-- [[YouTube_Channel_Link](https://www.youtube.com/channel/UC3pJKOr_RCHjo_f2VcVHKbQ)]
-- Filmed and uploaded solo music videos.
-- Aim to expand the channel's reach.
-
-
-
----
-
-Let's connect and collaborate to explore exciting opportunities! :rocket:
+Let's connect and collaborate! Feel free to reach out via [LinkedIn](https://linkedin.com/in/belerohit) or check out my projects on [GitHub](https://github.com/BeleRohit).
