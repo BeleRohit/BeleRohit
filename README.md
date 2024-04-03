@@ -2,7 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/belerohit)](https://linkedin.com/in/belerohit) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/BeleRohit)](https://github.com/BeleRohit)
 
-[![Github](https://github.com/BeleRohit/BeleRohit/blob/main/GIF%20for%20Github.mp4)]
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://github.com/BeleRohit/BeleRohit/blob/main/GIF%20for%20Github.mp4)
+
 
 ## About Me
 I'm a passionate Data Science enthusiast with a knack for solving real-world problems through Machine Learning. My focus lies in leveraging the power of data to drive insights and innovations. Let's connect and collaborate!
