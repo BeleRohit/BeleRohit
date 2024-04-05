@@ -15,7 +15,7 @@ I'm a passionate Data Science enthusiast with a knack for solving real-world pro
 
 ## 🚀 Projects
 ### Student Performance Prediction
-Predicting student success using machine learning models and offering valuable insights. Check out the project [here](link-to-your-repo)!
+Predicting student success using machine learning models and offering valuable insights. Check out the project [here](https://github.com/BeleRohit/studentperformanceprediction)!
 
 ## 🏆 Achievements
 - Shortlisted Participant, Amazon ML Summer School 2023
