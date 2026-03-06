@@ -129,7 +129,7 @@ rohit = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BeleRohit&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=BeleRohit&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -143,7 +143,7 @@ rohit = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeleRohit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=BeleRohit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
