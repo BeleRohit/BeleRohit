@@ -1,5 +1,15 @@
-# Hi, I'm Rohit Bele 👋  
-### Data Engineer | AWS Big Data | Cloud & Analytics Enthusiast  
+# Hi there, I'm Rohit Bele 👋
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rohit%20Bele&fontSize=50" />
+</div>
+
+<div align="center">
+  <strong>Data Engineer | Full-Stack AI Developer | Cloud Architect</strong>
+</div>
+<br>
+
+I am a **Data Engineer** and **Software Developer** who loves bridging the gap between scalable data infrastructure and intelligent, interactive user experiences. By day, I build cloud-native data platforms and end-to-end pipelines on AWS; by night, I build AI-powered full-stack applications leveraging Large Language Models, Computer Vision, and modern web frameworks.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/belerohit)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BeleRohit)
@@ -7,107 +17,56 @@
 
 ---
 
-## 🚀 About Me  
+### 🧰 Tech Stack
 
-I’m a **Data Engineer** specializing in building **scalable, cloud-native data platforms** on **AWS**.  
-My work focuses on designing **end-to-end data pipelines**, implementing **robust data warehouse models**, and enabling **analytics-ready datasets** for business intelligence and machine learning use cases.
+**☁️ Data Engineering & Cloud**
+- **AWS**: S3, Redshift, Glue, EC2
+- **Orchestration & Processing**: Apache Airflow, PySpark, Apache Spark, Databricks
+- **Databases & Warehousing**: Snowflake, PostgreSQL, MySQL (Star Schema, Data Vault 2.0)
 
-I enjoy working at the intersection of **data, cloud infrastructure, and performance optimization**, turning raw data into reliable, decision-ready insights.
+**🧠 AI & Machine Learning**
+- **LLMs & GenAI**: Groq (Llama 3), OpenAI API, Sarvam AI (TTS/STT), Local LLMs
+- **CV & Deep Learning**: MediaPipe, CNNs, LSTMs, PyTorch/TensorFlow
+- **RAG & Vector Search**: LlamaIndex, PDF Parsing
 
----
-
-## 🧠 What I Work With  
-
-### ☁️ Cloud & Big Data  
-- **AWS**: S3, Redshift, Redshift Spectrum, Glue, EC2  
-- **Big Data & Orchestration**: PySpark, Apache Spark, Apache Airflow, Databricks  
-
-### 🗄️ Data Engineering & Warehousing  
-- ETL / ELT Pipeline Design  
-- Data Modeling: **Star Schema**, **Data Vault 2.0**  
-- Materialized Views & Query Optimization  
-- High-volume Healthcare & Enterprise Data  
-
-### 🧑‍💻 Programming & Databases  
-- **Languages**: Python, SQL, PL/SQL  
-- **Databases**: Snowflake, PostgreSQL, MySQL  
-
-### 📊 Analytics & Visualization  
-- Power BI, Tableau  
-- Matplotlib  
-
-### ⚙️ DevOps & APIs  
-- Docker, Git  
-- FastAPI, Flask  
-
-> 🔍 Background familiarity in **Machine Learning & NLP**, with hands-on project experience.
+**💻 Full-Stack Development**
+- **Frontend**: Next.js 16 (App Router), React, TypeScript, Tailwind CSS, p5.js
+- **Backend**: Python, FastAPI, Node.js, Flask
+- **Auth & State**: Supabase (RLS, Magic Links)
 
 ---
 
-## 💼 Experience  
+### 💼 Experience
 
-### **Data Engineer** — *Eversana*  
-📍 Remote | **Apr 2025 – Present**  
-
-- Designed and maintained **end-to-end AWS data pipelines** for high-volume healthcare data  
-- Built **optimized Snowflake data models** using star schema for complex analytical use cases  
-- Authored and optimized **advanced SQL logic**, reducing processing time by **30%+**  
-- Orchestrated reliable workflows using **Apache Airflow**  
-- Collaborated in an agile, cloud-first environment supporting scalable data infrastructure  
+- **Data Engineer @ Eversana** *(Apr 2025 - Present)*: Designing end-to-end AWS data pipelines for high-volume healthcare data, optimizing Snowflake star-schema models, and orchestrating workflows using Apache Airflow. Reduced processing times by 30%+.
+- **Data Science Intern @ upGrad** *(Jan 2024 - May 2024)*: Built automated ingestion pipelines for sensor data and performed large-scale data transformations for predictive maintenance ML models.
 
 ---
 
-### **Data Science Intern** — *upGrad*  
-📍 Phagwara | **Jan 2024 – May 2024**  
+### � Featured Projects
 
-- Built automated pipelines for **sensor data ingestion** used in predictive maintenance models  
-- Performed large-scale **data cleaning, transformation, and preparation** for ML workflows  
+#### 💡 Full-Stack & Generative AI Applications
+- **[🧭 AI Career Navigator](https://github.com/BeleRohit/career-coach)**: An AI-powered SaaS helping professionals land roles faster. Features a conversational career coach (Llama 3.3), Skill Gap Analyzer, Roadmap Generator, and instant ATS PDF Resume feedback. *(Next.js, Tailwind, Supabase, Groq AI)*
+- **[🎯 Resume–Job Match AI Platform](https://github.com/BeleRohit/resume-job-match-ai)**: A full-stack application analyzing resume-job fit for software & data engineers. Includes ATS scoring, AI improvement suggestions, and passwordless authentication. *(Next.js, Python/FastAPI, Supabase Auth/DB, Groq LLM)*
+- **[🤚 Gestural — Cinematic Hand & Face Tracking](https://github.com/BeleRohit/hand-tracking)**: A pure browser-based, interactive CGI application using webcams to drive real-time graphical effects (Particle halos, Mesh overlays, Warp portals). *(Vanilla JS, MediaPipe Hands & Face Mesh, p5.js)*
+- **[🧠 Micro Mentor](https://github.com/BeleRohit/micro-mentor)**: A Chrome extension transforming passive reading into active thinking by generating Socratic questions for any highlighted text. *(JavaScript, FastAPI, Groq LLM)*
 
----
-
-## 🧪 Featured Projects  
-
-### 📈 Sales Data Analytics & ETL Pipeline  
-**Dec 2024**  
-- Designed a full **ETL pipeline** with a star schema data model on a cloud DWH (Redshift-style architecture)  
-- Implemented **materialized views** and complex SQL transformations  
-- Delivered Power BI dashboards with **40% faster query performance**  
-- Automated ingestion and cleansing using Python  
+#### 📊 Data Engineering & Machine Learning
+- **📈 Sales Data Analytics & ETL Pipeline**: Designed an end-to-end ETL pipeline with a star schema cloud DWH (Redshift-style). Implemented materialized views, Python ingestion, and delivered Power BI dashboards with 40% faster query performance.
+- **[🎙️ Speech Emotion Recognition System](https://github.com/BeleRohit/speech-Emotion-Analyzer)**: Built an audio data preprocessing pipeline and trained a highly accurate CNN + LSTM deep learning model achieving 96% classification accuracy on large audio datasets.
+- **[📚 RAG LLM App with LLaMA 2 & LLaMAIndex](https://github.com/BeleRohit/RAG_LLM-App-with-LLamA2-and-LLaMAIndex)**: An advanced Retrieval-Augmented Generation application for intelligent document querying using LLaMA models.
 
 ---
 
-### 🎙️ Speech Emotion Recognition (Deep Learning)  
-**Jul 2024**  
-- Built a data preprocessing pipeline for large audio datasets  
-- Trained **CNN + LSTM models** achieving **96% classification accuracy**  
-- Strengthened expertise in data handling for ML systems  
+### 📈 GitHub Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeleRohit&show_icons=true&theme=radium" alt="Rohit's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeleRohit&theme=radium" alt="Rohit's GitHub streak" />
+</div>
 
-## 🎓 Education  
+<br>
 
-🎓 **B.Tech in Computer Science**  
-Lovely Professional University, Phagwara  
-**CGPA:** 7.34 | *2020 – 2024*  
-
----
-
-## 🏆 Highlights & Achievements  
-
-- Shortlisted – **Amazon ML Summer School 2023**  
-- **3rd Place** – Kaggle ML Olympiad 2024  
-- Founder & Author – *TechPulse Newsletter*  
-
----
-
-## 🤝 Let’s Connect  
-
-I’m interested in:
-- Data Engineering & Cloud Architecture  
-- Big Data Platforms  
-- Analytics Engineering  
-- Scalable Data Systems  
-
-If you’d like to collaborate, discuss data engineering ideas, or just talk tech — feel free to reach out!
-
-✨ *Building data systems that scale, perform, and matter.*
+<div align="center">
+  <i>"Building data systems that scale, perform, and matter—while optimizing for understanding, not just output."</i>
+</div>
