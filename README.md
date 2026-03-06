@@ -58,11 +58,28 @@ I am a **Data Engineer** and **Software Developer** who loves bridging the gap b
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeleRohit&show_icons=true&theme=radium" alt="Rohit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeleRohit&theme=radium" alt="Rohit's GitHub streak" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BeleRohit&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Rohit's GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeleRohit&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Rohit's Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Main Stats and Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BeleRohit&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" height="195" alt="Rohit's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeleRohit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="195" alt="Rohit's GitHub streak" />
 </div>
 
 <br>
