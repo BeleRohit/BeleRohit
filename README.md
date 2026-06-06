@@ -28,8 +28,8 @@ I bridge the gap between **scalable data infrastructure** and **intelligent, int
 
 ```python
 rohit = {
-    "role"       : ["Data Engineer", "Full-Stack AI Developer", "Cloud Architect"],
-    "cloud"      : ["AWS", "Snowflake", "Databricks"],
+    "role"       : ["Data Engineer", "Full-Stack AI Developer"],
+    "cloud"      : ["AWS", "Snowflake", "Airflow"],
     "ai_stack"   : ["Llama 3", "OpenAI", "RAG", "Computer Vision"],
     "frontend"   : ["Next.js 16", "React", "TypeScript", "Tailwind CSS"],
     "currently"  : "Building healthcare data pipelines @ Eversana 🏥",
