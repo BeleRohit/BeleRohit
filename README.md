@@ -26,13 +26,13 @@ My longer-term focus is **reinforcement learning for language models (RLHF and r
 
 | Project | Focus |
 | --- | --- |
-| **Micrograd / Autograd studies** | Implementing scalar automatic differentiation and reverse-mode backpropagation to understand training mechanics from first principles. |
-| **Seq2Seq from scratch** | Exploring encoder–decoder models, recurrent networks, and attention through hands-on implementations. |
+| [**Micrograd — learning extensions**](https://github.com/BeleRohit/micrograd-learning) | Extending Karpathy’s scalar autograd engine with gradient tests, correctness fixes, reproducible training experiments, and CI. |
+| [**Seq2Seq from scratch**](https://github.com/BeleRohit/seq2seq-from-scratch) | Reproducing LSTM encoder–decoder sequence learning with explicit gates, teacher forcing, decoding, and controlled source-reversal experiments. |
 | [**Agent evaluations with DeepEval**](https://github.com/BeleRohit/agent-evals-deepeval) | Building and testing evaluation workflows for LLM-powered agents. |
 | **Attention scaling research** *(exploratory)* | Investigating how attention-score scaling influences training stability in small Transformers. |
 | [**Speech Emotion Recognition**](https://github.com/BeleRohit/speech-Emotion-Analyzer) | Applying deep learning to speech classification. |
 
-*Some learning experiments and research are still in progress; public links will be added as they are ready.*
+*Independent attention-scaling research remains exploratory; further results will be linked when available.*
 
 ### Experience
 
@@ -63,11 +63,10 @@ My longer-term focus is **reinforcement learning for language models (RLHF and r
 
 I prefer to demonstrate additional tools through code and experiments rather than list every framework I've explored.
 
-### Writing and research
+### Writing and 
 
 I write about deep learning concepts, implementations, and ideas I'm working through at **[rohitbele.com](https://rohitbele.com)**.
 
-My current independent research direction is **the effect of attention scaling on training stability in small Transformers**. This is ongoing exploratory work, not a completed publication.
 
 ---
 
