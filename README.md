@@ -31,10 +31,7 @@ My longer-term focus is **reinforcement learning for language models (RLHF and r
 | [**e-means: independent research reproduction**](https://github.com/BeleRohit/e-means) | NumPy and PyTorch implementations of Lloyd’s K-Means and e-means, with numerical and CPU/CUDA parity checks plus an audited NVIDIA A40 performance study. |
 | [**Neuron Sensitivity on MNIST**](https://github.com/BeleRohit/neuron-sensitivity) | Testing how single-neuron ablations change MLP predictions across five trained models; comparing weight norms with neuron features for predicting impact. |
 | [**Agent evaluations with DeepEval**](https://github.com/BeleRohit/agent-evals-deepeval) | Building and testing evaluation workflows for LLM-powered agents. |
-| **Attention scaling research** *(exploratory)* | Investigating how attention-score scaling influences training stability in small Transformers. |
 | [**Speech Emotion Recognition**](https://github.com/BeleRohit/speech-Emotion-Analyzer) | Applying deep learning to speech classification. |
-
-*Independent attention-scaling research remains exploratory; further results will be linked when available.*
 
 ### Experience
 
