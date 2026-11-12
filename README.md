@@ -28,6 +28,8 @@ My longer-term focus is **reinforcement learning for language models (RLHF and r
 | --- | --- |
 | [**Micrograd — learning extensions**](https://github.com/BeleRohit/micrograd-learning) | Extending Karpathy’s scalar autograd engine with gradient tests, correctness fixes, reproducible training experiments, and CI. |
 | [**Seq2Seq from scratch**](https://github.com/BeleRohit/seq2seq-from-scratch) | Reproducing LSTM encoder–decoder sequence learning with explicit gates, teacher forcing, decoding, and controlled source-reversal experiments. |
+| [**e-means: independent research reproduction**](https://github.com/BeleRohit/e-means) | NumPy and PyTorch implementations of Lloyd’s K-Means and e-means, with numerical and CPU/CUDA parity checks plus an audited NVIDIA A40 performance study. |
+| [**Neuron Sensitivity on MNIST**](https://github.com/BeleRohit/neuron-sensitivity) | Testing how single-neuron ablations change MLP predictions across five trained models; comparing weight norms with neuron features for predicting impact. |
 | [**Agent evaluations with DeepEval**](https://github.com/BeleRohit/agent-evals-deepeval) | Building and testing evaluation workflows for LLM-powered agents. |
 | **Attention scaling research** *(exploratory)* | Investigating how attention-score scaling influences training stability in small Transformers. |
 | [**Speech Emotion Recognition**](https://github.com/BeleRohit/speech-Emotion-Analyzer) | Applying deep learning to speech classification. |
