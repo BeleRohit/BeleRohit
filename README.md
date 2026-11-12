@@ -62,7 +62,7 @@ My longer-term focus is **reinforcement learning for language models (RLHF and r
 
 I prefer to demonstrate additional tools through code and experiments rather than list every framework I've explored.
 
-### Writing and 
+### Writings 
 
 I write about deep learning concepts, implementations, and ideas I'm working through at **[rohitbele.com](https://rohitbele.com)**.
 
